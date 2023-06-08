@@ -9,8 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kewincaue/)
 
 ![Kewin GitHub stats](https://github-readme-stats.vercel.app/api?username=kewin3&show_icons=true&theme=merko)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewin3&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kewin3&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia a dia
 
