@@ -1,8 +1,6 @@
-### Olá! Eu sou o Kewin Cauê 🖐
+### Oi! Eu sou o Kewin Cauê 🖐
 
-<div>
-<img align="center" alt="apresentacao" src="https://gifs.eco.br/imagens-e-gifs-de-oi-eu-sou-o-goku/" />
-</div>
+![imagens-e-gifs-de-oi-eu-sou-o-goku-8](https://github.com/kewin3/kewin3/assets/68565886/17a7ce35-526d-47e9-b2fa-33b0f908b6ca)
   
 [![Portfólio](https://img.shields.io/website?label=PortfolioKewin.app&style=for-the-badge&url=https://meuportfoliokewin.netlify.app/)](https://meuportfoliokewin.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kewin-cau%C3%AA/)
