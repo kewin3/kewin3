@@ -24,6 +24,6 @@
 ### What i cannot create, i do not understand 💭💭 - Richard Feynman.
 ### Trust the process!🎯🎯
 <div align="center">
-<img src="https://github.com/kewin3/kewin3/assets/68565886/0b10aec3-de64-4967-abda-04fc279bc3f9" width="300px" height="200px">
-<img src="https://github.com/kewin3/kewin3/assets/68565886/46dc72be-1ba1-4dae-b61f-536894750493" width=300px" height="200px">
+<img src="https://github.com/kewin3/kewin3/assets/68565886/0b10aec3-de64-4967-abda-04fc279bc3f9" width="400px" height="200px">
+<img src="https://github.com/kewin3/kewin3/assets/68565886/46dc72be-1ba1-4dae-b61f-536894750493" width=400px" height="200px">
 </div>
