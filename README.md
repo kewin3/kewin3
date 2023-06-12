@@ -21,7 +21,7 @@
   
   
 ### What i cannot create, i do not understand 💭💭 - Richard Feynman.
-### Trust the process!🎯🎯
+### Trust the process!⏳🎯
 
 ## Passionate about technology, innovation, education and digital transformation. 
 <div align="center">
