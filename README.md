@@ -20,7 +20,6 @@
 </div>  
   
   
-### What i cannot create, i do not understand 💭💭 - Richard Feynman.
 ### Trust the process!⏳🎯
 
 ## Passionate about technology, innovation, education and digital transformation. 
